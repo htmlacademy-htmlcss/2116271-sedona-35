@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Артур Мостовой](https://up.htmlacademy.ru/htmlcss/35/user/2116271).
-* Наставник: `Неизвестно`.
+* Наставник: `Roman Zheltov`(https://htmlacademy.ru/profile/id1145037).
 
 ---
 
